@@ -1,0 +1,9 @@
+{
+  "TITLE": "Example Title",
+  "ENTER": "Enter",
+  "NEWS" : "News",
+  "ABOUT_US" : "About us",
+  "QUOTE" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porta enim arcu. Ut et lacus odio. Curabitur interdum libero quam, rhoncus mollis augue auctor ut. ",
+  "NOT_FOUND" : "The page you are looking for cannot be found",
+  "BACK_HOME" : "Go back to homepage"
+}

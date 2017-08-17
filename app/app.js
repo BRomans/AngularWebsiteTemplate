@@ -24,7 +24,7 @@ angular.module('myApp').config(['$translateProvider', function ($translateProvid
         //prefix: AppRegistryService.getRegistryParam('host_url') + ':' + AppRegistryService.getRegistryParam('port') + '/languages/',
         suffix: '.json'
     });
-    $translateProvider.preferredLanguage('ita');
+    $translateProvider.preferredLanguage('en');
 }]);
 
 angular.module('myApp').config(function(uiGmapGoogleMapApiProvider) {
